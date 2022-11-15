@@ -1,0 +1,14 @@
+C:\Users\Utilisateur\Desktop\c#\MegaCastingTP2022\MegaCasting2022.DBLib\bin\Debug\net6.0\MegaCasting2022.DBLib.deps.json
+C:\Users\Utilisateur\Desktop\c#\MegaCastingTP2022\MegaCasting2022.DBLib\bin\Debug\net6.0\MegaCasting2022.DBLib.runtimeconfig.json
+C:\Users\Utilisateur\Desktop\c#\MegaCastingTP2022\MegaCasting2022.DBLib\bin\Debug\net6.0\MegaCasting2022.DBLib.dll
+C:\Users\Utilisateur\Desktop\c#\MegaCastingTP2022\MegaCasting2022.DBLib\bin\Debug\net6.0\MegaCasting2022.DBLib.pdb
+C:\Users\Utilisateur\Desktop\c#\MegaCastingTP2022\MegaCasting2022.DBLib\obj\Debug\net6.0\MegaCasting2022.DBLib.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Desktop\c#\MegaCastingTP2022\MegaCasting2022.DBLib\obj\Debug\net6.0\MegaCasting2022.DBLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Desktop\c#\MegaCastingTP2022\MegaCasting2022.DBLib\obj\Debug\net6.0\MegaCasting2022.DBLib.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Desktop\c#\MegaCastingTP2022\MegaCasting2022.DBLib\obj\Debug\net6.0\MegaCasting2022.DBLib.AssemblyInfo.cs
+C:\Users\Utilisateur\Desktop\c#\MegaCastingTP2022\MegaCasting2022.DBLib\obj\Debug\net6.0\MegaCasting2022.DBLib.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Desktop\c#\MegaCastingTP2022\MegaCasting2022.DBLib\obj\Debug\net6.0\MegaCasting2022.DBLib.dll
+C:\Users\Utilisateur\Desktop\c#\MegaCastingTP2022\MegaCasting2022.DBLib\obj\Debug\net6.0\refint\MegaCasting2022.DBLib.dll
+C:\Users\Utilisateur\Desktop\c#\MegaCastingTP2022\MegaCasting2022.DBLib\obj\Debug\net6.0\MegaCasting2022.DBLib.pdb
+C:\Users\Utilisateur\Desktop\c#\MegaCastingTP2022\MegaCasting2022.DBLib\obj\Debug\net6.0\MegaCasting2022.DBLib.genruntimeconfig.cache
+C:\Users\Utilisateur\Desktop\c#\MegaCastingTP2022\MegaCasting2022.DBLib\obj\Debug\net6.0\ref\MegaCasting2022.DBLib.dll
